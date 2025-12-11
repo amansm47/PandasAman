@@ -20,3 +20,5 @@ print(df[['Name','Age','Salary']])
 #display specific rows and columns
 print("\nSpecific Rows and Columns (loc)")
 print(df.loc[2:5, ['Name', 'Performance Score']])
+
+#
